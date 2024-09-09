@@ -2,10 +2,11 @@
 
 public class problem1
 {
-    public static void main(String[] args)
-    {
-        int score;
-        4 = score;
-        System.out.println(score);
-    }
+  public static void main(String[] args)
+  {
+    System.out.println("=========");
+    System.out.println("= 0   0 =   Java is Awesome!");
+    System.out.println("=   v   =");
+    System.out.println("=========");
+  }
 }
