@@ -1,12 +1,10 @@
 // Create your class here; don't forget the main method
 
-public class problem1
+public class problem1.java
 {
   public static void main(String[] args)
   {
-    System.out.println("=========");
-    System.out.println("= 0   0 =   Java is Awesome!");
-    System.out.println("=   v   =");
-    System.out.println("=========");
-  }
+    x = "springrolls"
+    System.out.print("I like to eat " + x + "as well!")
+  } 
 }
